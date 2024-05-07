@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Clothing Company</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: cyan;
+            color: white;
+        }
+        header {
+            background-color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        h2 {
+            color: cyan;
+        }
+        .item {
+            background-color: white;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>The Clothing Company</h1>
+    </header>
+    <section>
+        <h2>Shirts</h2>
+        <div class="item">
+            <!-- Insert shirt images and descriptions here -->
+        </div>
+    </section>
+    <section>
+        <h2>T-Shirts</h2>
+        <div class="item">
+            <!-- Insert t-shirt images and descriptions here -->
+        </div>
+    </section>
+    <section>
+        <h2>Uniforms for Men</h2>
+        <div class="item">
+            <!-- Insert men's uniform images and descriptions here -->
+        </div>
+    </section>
+    <section>
+        <h2>Uniforms for Women</h2>
+        <div class="item">
+            <!-- Insert women's uniform images and descriptions here -->
+        </div>
+    </section>
+    <section>
+        <h2>Blankets</h2>
+        <div class="item">
+            <!-- Insert blanket images and descriptions here -->
+        </div>
+    </section>
+</body>
+</html>
